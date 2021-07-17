@@ -1,0 +1,10 @@
+.button {
+    background-color: #caf0f8;
+    height: 15px;
+    width: 12px;
+}
+
+.button.active {
+    background-color: #48cae4;
+    color: white;
+}
